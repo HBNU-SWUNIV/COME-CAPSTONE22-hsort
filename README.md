@@ -169,7 +169,8 @@
 금속 판이 접촉한 경우는 원인은 모르겠지만 RFID 리더기가 신호 받는 것 자체를 방해한 것으로 추측함. </br>
 
 * 시연 영상
-
+![시연](https://user-images.githubusercontent.com/101806955/204561541-c8721afa-1edc-48b4-8f22-03cd83b04141.gif)
+[DB와 웹서버 동작 포함 영상](https://youtu.be/6W0vPOCrld0)
 - - -
 
 ## 결론
