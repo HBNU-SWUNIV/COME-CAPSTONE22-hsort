@@ -5,3 +5,11 @@
  <span style="color:red">
  - **기업 기밀 데이터가 Github에 공개되었을 시의 책임은 공개한 학생에게 있음**
  </span>
+
+* * *
+
+- arduino client library
+[ITEADLIB_Arduino_WeeESP8266 by itead](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266)
+
+- tracker referance
+[Yolov5_StrongSORT_OSNet by mikel brostrom](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet/tree/v6.0)
