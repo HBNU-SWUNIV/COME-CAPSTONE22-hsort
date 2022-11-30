@@ -6,7 +6,7 @@ def start_server():
     print('Start server')
 
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    server_socket.bind(('192.168.43.188', 5000))
+    server_socket.bind(('IP', PORT))
     server_socket.listen(2)
     ard_client, track_client = arrange_client(server_socket)
 
