@@ -84,7 +84,7 @@ def run(
 
     ###
     host = 'gate_server_IP'
-    port = PORT
+    port = gate_server_PORT
     
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     client_socket.connect((host, port))
