@@ -2,12 +2,12 @@
 #include <SoftwareSerial.h>
 #include <string.h>
 
-#define SSID        "Asd"  
-#define PASSWORD    "12qwaszx!"  
-#define HOST_NAME   "192.168.43.241" 
-#define HOST_PORT   5000
+#define SSID        "SSID"  
+#define PASSWORD    "PASSWORD"  
+#define HOST_NAME   "gate_server_IP" 
+#define HOST_PORT   gate_server_PORT
 
-SoftwareSerial mySerial(7, 6);
+SoftwareSerial mySerial(ESP8266_RX, ESP8266_TX);
 ESP8266 wifi(mySerial);
 bool flag = false;
 bool APConnected = false;
