@@ -83,12 +83,12 @@ def run(
 ):
 
     ###
-    # host = '192.168.43.241'
-    # port = 5000
+    host = 'gate_server_IP'
+    port = gate_server_PORT
     
-    # client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    # client_socket.connect((host, port))
-    # set_client_socket(client_socket)
+    client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    client_socket.connect((host, port))
+    set_client_socket(client_socket)
 
     get_json(room_no)
 
