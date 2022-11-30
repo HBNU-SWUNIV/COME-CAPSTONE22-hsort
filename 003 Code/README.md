@@ -9,7 +9,7 @@
 * * *
 
 - arduino client library
-[ITEADLIB_Arduino_WeeESP8266 by itead](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266)
+[[ITEADLIB_Arduino_WeeESP8266 by itead]](https://github.com/itead/ITEADLIB_Arduino_WeeESP8266)
 
 - tracker referance
-[Yolov5_StrongSORT_OSNet by mikel brostrom](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet/tree/v6.0)
+[[Yolov5_StrongSORT_OSNet by mikel brostrom]](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet/tree/v6.0)
