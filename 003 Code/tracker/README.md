@@ -4,6 +4,7 @@
 ```
 $ git clone https://github.com/Mm6585/HSORT.git
 $ cd HSORT
+$ sudo rm -rf ./yolov5 ./strong_sort_deep/reid
 $ git clone https://github.com/ultralytics/yolov5.git
 $ git clone https://github.com/KaiyangZhou/deep-person-reid.git ./strong_sort/deep/reid
 $ pip install -r requirements.txt
