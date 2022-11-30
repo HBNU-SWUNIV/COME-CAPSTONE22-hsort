@@ -170,7 +170,7 @@
 
 * 시연 영상 </br>
 ![시연](https://user-images.githubusercontent.com/101806955/204561541-c8721afa-1edc-48b4-8f22-03cd83b04141.gif) </br>
-[DB와 웹서버 동작 포함 영상](https://youtu.be/6W0vPOCrld0)
+DB와 웹서버 동작 포함 영상 - [youtube link](https://youtu.be/6W0vPOCrld0)
 - - -
 
 ## 결론
