@@ -1,0 +1,6 @@
+[submodule "003 Code/tracker/yolov5"]
+	path = 003 Code/tracker/yolov5
+	url = https://github.com/ultralytics/yolov5.git
+[submodule "003 Code/tracker/strong_sort/deep/reid"]
+	path = 003 Code/tracker/strong_sort/deep/reid
+	url = https://github.com/KaiyangZhou/deep-person-reid.git
