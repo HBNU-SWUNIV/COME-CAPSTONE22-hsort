@@ -86,7 +86,7 @@
   ![image](https://user-images.githubusercontent.com/101806955/197724671-a0a55b14-795a-4e04-865e-cc77e59110e2.png) </br>
   ![image](https://user-images.githubusercontent.com/101806955/197724278-c605b1b8-a1a3-484b-9b0a-0cce6c450489.png) </br>
 
-  * BOT와 ResNeSt50을 backbone으로 객체의 appearance feature 정보를 획득. </br>
+  * appearance extractor로 BOT를, backbone으로 ResNeSt50을 사용하여 객체의 appearance feature 정보를 획득. </br>
   * EMA 방식으로 객체들의 appearance state를 업데이트. </br>
   * 움직임 보정을 위해 ECC를 사용하고 low-quality detection과 noise에 취약한 </br>
     기존의 kalman filter 대신 NSA kalman algorithm을 사용.
