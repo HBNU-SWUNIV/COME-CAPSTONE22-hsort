@@ -55,7 +55,7 @@
 - - -
 
 ## 시스템 구조
-![개요도](https://user-images.githubusercontent.com/101806955/195017256-fce55de8-b5cc-4e4a-bef0-7676db793d5d.png)
+![개요도](https://user-images.githubusercontent.com/101806955/205005043-11d02169-c09b-4e0d-9a76-a5491c4f4115.png)
 
 - - -
 
