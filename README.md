@@ -162,6 +162,7 @@
 ## 결과물
 
 * RFID 출입 게이트
+![회로도](https://user-images.githubusercontent.com/101806955/205005171-de4b82f3-093b-460d-993a-0a1d1ca6ea0c.png)
 ![그림1](https://user-images.githubusercontent.com/101806955/204500268-cdb7a1b9-8a09-4364-bde2-a100b94afdca.png) </br>
 금속 차폐 시 오히려 탐지거리가 늘어나 게이트에 진입하지 않은 태그를 인식하는 현상과 </br>
 금속 판이 리더기에 접촉 시 정면에 있는 태그를 전혀 인식하지 못하는 현상이 발생하여 금속 차폐판은 제거함. </br>
