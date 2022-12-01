@@ -81,7 +81,7 @@
   YOLOv5는 여러 버전을 거쳐 성능을 개선하고 pytorch 프레임워크를 도입하여 개발됨. </br></br>
 
 * StrongSORT</br>
-  ![image](https://user-images.githubusercontent.com/101806955/197722166-0dcdcf18-3215-4dcc-a116-0887eebb66a9.png) </br>
+  ![strongsort](https://user-images.githubusercontent.com/101806955/205022776-e4cdb7e1-1e26-41f1-a466-41874abc6d2f.png) </br>
   ![image](https://user-images.githubusercontent.com/101806955/197728345-d2611d70-0d40-4032-a7c1-138ecf7b4f8b.png) </br>
   ![image](https://user-images.githubusercontent.com/101806955/197724671-a0a55b14-795a-4e04-865e-cc77e59110e2.png) </br>
   ![image](https://user-images.githubusercontent.com/101806955/197724278-c605b1b8-a1a3-484b-9b0a-0cce6c450489.png) </br>
