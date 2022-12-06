@@ -9,7 +9,7 @@ import android.webkit.WebViewClient;
 
 public class MainActivity extends AppCompatActivity {
 
-    String url = "https://capstone-5857b.web.app/";
+    String url = "Firebase_Realtime_DB_url";
     WebView webView = null;
 
     @Override
